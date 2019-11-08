@@ -1,0 +1,6 @@
+venv
+*.pyc
+.DS_Store
+.env
+*.csv
+Terrorismo_Visualizacion_Carlos_Alarcon.ipynb
